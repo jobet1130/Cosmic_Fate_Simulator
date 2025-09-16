@@ -65,15 +65,15 @@ The project includes several synthetic datasets:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/jobet1130/cosmic-fate-simulator.git
-cd cosmic-fate-simulator
+git clone https://github.com/jobet1130/Cosmic_Fate_Simulator.git
+cd Cosmic_Fate_Simulator
 ```
 
 2. **Create and activate a virtual environment**
 
 ```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: .\\venv\\Scripts\\activate
+python -m venv .venv
+source .venv/bin/activate  # On Windows: .\\venv\\Scripts\\activate
 ```
 
 3. **Install dependencies**
