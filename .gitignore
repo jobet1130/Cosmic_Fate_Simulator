@@ -41,8 +41,10 @@ ENV/
 *.pickle
 data/raw/*
 data/processed/*
+data/transformed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+!data/transformed/.gitkeep
 !data/external/.gitkeep
 
 # IDE specific files
